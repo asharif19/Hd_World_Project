@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The Splash</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_Account">Settings</string>
+    <string name="error_text">An error occurred while loading data</string>
+    <string name="UserName">Username</string>
+    <string name="DetailPageTitle">Description</string>
+    <string name="DetailPageDescription">it has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="title_activity_photo_item_detail">PhotoItemDetail</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello World!</string>
+    <string name="UserNameProfile">James Pond</string>
+    <string name="PhoneNumProfile">+96110101010</string>
+    <string name="EmailProfile">James.Pond@gmail.com</string>
+    <string name="add_an_account">Add An Account</string>
+</resources>
