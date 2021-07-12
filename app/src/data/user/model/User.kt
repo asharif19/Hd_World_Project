@@ -1,7 +1,7 @@
-package com.b_lam.resplash.data.user.model
+package com.example.hdworld.data.user.model
 
 import android.os.Parcelable
-import com.b_lam.resplash.data.photo.model.Photo
+import com.example.hdworld.data.photo.model.Photo
 import com.squareup.moshi.JsonClass
 import kotlinx.android.parcel.Parcelize
 
